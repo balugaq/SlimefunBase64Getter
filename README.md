@@ -1,1 +1,1 @@
-# PaperPluginTemplate
+# SlimefunBase64Getter

@@ -1,4 +1,4 @@
-package com.balugaq.changeme.implementation;
+package com.balugaq.sbg.implementation;
 
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.FileConfiguration;
